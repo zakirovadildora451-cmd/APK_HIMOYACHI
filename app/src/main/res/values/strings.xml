@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">APK Himoyachi</string>
+
+    <!-- Asosiy holatlar -->
+    <string name="status_protected">Qurilma himoyalangan</string>
+    <string name="status_threat_found">Xavf aniqlandi!</string>
+    <string name="status_scanning">Qurilma tahlil qilinmoqda…</string>
+    <string name="scan_now">Hozir tekshirish</string>
+    <string name="quick_scan">Tezkor skanerlash</string>
+    <string name="full_scan">To\'liq skanerlash</string>
+
+    <!-- Menyular -->
+    <string name="nav_dashboard">Bosh sahifa</string>
+    <string name="nav_apps">O\'rnatilgan ilovalar</string>
+    <string name="nav_apks">APK fayllar</string>
+    <string name="nav_settings">Sozlamalar</string>
+
+    <!-- Xavf darajalari -->
+    <string name="risk_safe">Xavfsiz</string>
+    <string name="risk_low">Past xavf</string>
+    <string name="risk_medium">O\'rtacha xavf</string>
+    <string name="risk_high">Yuqori xavf</string>
+    <string name="risk_critical">Kritik xavf</string>
+
+    <!-- Statistikalar -->
+    <string name="total_apps">Jami ilovalar</string>
+    <string name="risky_apps">Xavfli ilovalar</string>
+    <string name="sideloaded_apps">Noma\'lum manbalar</string>
+    <string name="apk_files_found">Topilgan APK lar</string>
+
+    <!-- Real vaqt himoyasi -->
+    <string name="realtime_protection">Real vaqt rejimida himoya</string>
+    <string name="realtime_protection_desc">Yangi ilovalar o\'rnatilganda va APK yuklanganda avtomatik tahlil</string>
+    <string name="privacy_guarantee">Maxfiylik kafolati</string>
+    <string name="privacy_guarantee_desc">Ushbu ilovada shaxsiy ma\'lumotlar mutlaqo to\'planmaydi va tashqariga yuborilmaydi.</string>
+
+    <!-- Xabarnomalar -->
+    <string name="notification_channel_name">APK Himoyachi Ogohlantirishlari</string>
+    <string name="notification_channel_desc">Xavfli ilovalar va APK tahlil natijalari</string>
+    <string name="threat_detected_title">Diqqat: Shubhali ilova aniqlandi!</string>
+    <string name="threat_detected_body">%1$s ilovasida xavfli ruxsatlar yoki shubhali faollik topildi.</string>
+</resources>

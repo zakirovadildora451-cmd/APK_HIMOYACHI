@@ -1,0 +1,28 @@
+Categories:
+  - Security
+  - System
+License: Apache-2.0
+SourceCode: https://github.com/USERNAME/apk-himoyachi
+IssueTracker: https://github.com/USERNAME/apk-himoyachi/issues
+
+Summary: Android xavfsizlik va APK himoyachisi
+Description: |-
+  APK Himoyachi — qurilmadagi o'rnatilgan ilovalarni, xotiradagi APK fayllarni
+  va Telegram orqali yuklangan shubhali paketlarni tahlil qiluvchi xavfsizlik ilovasi.
+  Ilova shaxsiy ma'lumotlarni yig'maydi va to'liq qurilmangizning o'zida ishlaydi.
+
+RepoType: git
+Repo: https://github.com/USERNAME/apk-himoyachi.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: v1.0.0
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1
